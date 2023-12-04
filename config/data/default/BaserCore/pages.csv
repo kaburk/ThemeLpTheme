@@ -1,0 +1,209 @@
+﻿"id","contents","draft","page_template","modified","created"
+"1","<section class=""gray-back"" id=""3"">
+<h2 class=""center""><span class=""under"">申し込みの流れ</span></h2>
+
+<div class=""container"">
+<div class=""row flow"">
+<div class=""col span-3""><img alt=""申し込み"" src=""/theme_lp_theme/img/flow.jpg"" /></div>
+
+<div class=""col span-9"">
+<p>ここに文章が入ります。ここに文章が入ります。ここに文章が入ります。</p>
+</div>
+</div>
+
+<div class=""row flow"">
+<div class=""col span-3""><img alt=""申し込み"" src=""/theme_lp_theme/img/flow.jpg"" /></div>
+
+<div class=""col span-9"">
+<p>ここに文章が入ります。ここに文章が入ります。ここに文章が入ります。</p>
+</div>
+</div>
+
+<div class=""row flow"">
+<div class=""col span-3""><img alt=""申し込み"" src=""/theme_lp_theme/img/flow.jpg"" /></div>
+
+<div class=""col span-9"">
+<p>ここに文章が入ります。ここに文章が入ります。ここに文章が入ります。</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id=""4"">
+<h2 class=""center""><span class=""under"">アクセス</span></h2>
+
+<div class=""container"">
+<div class=""row"">
+<div class=""col span-12""><!-- GoogleMap --><iframe allowfullscreen="""" frameborder=""0"" height=""450"" src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27814443.96425483!2d120.28897720705172!3d31.679877148840735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34674e0fd77f192f%3A0xf54275d47c665244!2z5pel5pys!5e0!3m2!1sja!2sjp!4v1555153587836!5m2!1sja!2sjp"" style=""border: 0"" width=""100%""></iframe><!-- /GoogleMap --></div>
+</div>
+</div>
+</section>
+
+<section id=""5"">
+<h2 class=""center""><span class=""under"">お問い合わせ</span></h2>
+
+<div style=""text-align: center;""><a href=""/contact/"">お問い合わせフォームはこちら</a></div>
+
+<p>&nbsp;</p>
+
+<p style=""text-align: center;"">※ baserCMS5.0.7では、メールフォームを埋め込むショートコードが動作しないようです。<br />
+バグが解消したらここにメールフォームを埋め込めるようにする予定です。</p>
+
+<p style=""text-align: center;""><a href=""https://github.com/baserproject/basercms/issues/2915"" target=""_blank"">https://github.com/baserproject/basercms/issues/2915</a></p>
+</section>",,,"2023-12-04 21:27:57","2023-12-04 19:00:49"
+"2","<h2>会社案内</h2>
+
+<h3>会社データ</h3>
+
+<table>
+	<tbody>
+		<tr>
+			<th>会社名</th>
+			<td>baserCMSサンプル</td>
+		</tr>
+		<tr>
+			<th>設立</th>
+			<td>2022年9月</td>
+		</tr>
+		<tr>
+			<th>所在地</th>
+			<td>福岡県福岡市</td>
+		</tr>
+		<tr>
+			<th>事業内容</th>
+			<td>
+			<ul>
+				<li>事業内容１</li>
+				<li>事業内容２</li>
+				<li>事業内容３</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>アクセスマップ</h3>
+<p>[BcBaser.getGoogleMaps width|100%]</p>",,,,"2023-12-04 19:00:49"
+"3","<h2>サービス１</h2>
+
+<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+
+<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+
+<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>",,,,"2023-12-04 19:00:49"
+"5","<h1>見出し１</h1>
+
+<p>段落の文章が入ります。<span>段落の文章が入ります。段落の文章が入ります。段落の文章が入ります。段落の文章が入ります。段落の文章が入ります。段落の文章が入ります。段落の文章が入ります。段落の文章が入ります。段落の文章が入ります。段落の文章が入ります。</span></p>
+
+<h2>見出し２</h2>
+
+<ul>
+	<li>リスト１</li>
+	<li>リスト２</li>
+	<li>リスト３</li>
+</ul>
+
+<h3>見出し３</h3>
+
+<ol>
+	<li>連番リスト１</li>
+	<li><span>連番リスト２</span></li>
+	<li><span>連番リスト３</span></li>
+</ol>
+
+<h4>見出し４</h4>
+
+<p><strong>太字文章が入ります。太字文章が入ります。太字文章が入ります。太字文章が入ります。</strong></p>
+
+<h5>見出し５</h5>
+
+<p><em>斜体文章が入ります。斜体文章が入ります。斜体文章が入ります。斜体文章が入ります。</em></p>
+
+<h6>見出し６</h6>
+
+<p><u>下線付文章が入ります。下線付文章が入ります。下線付文章が入ります。下線付文章が入ります。</u></p>
+
+<table>
+	<tbody>
+		<tr>
+			<th>表見出し</th>
+			<td><span>表の文章が入ります。</span></td>
+		</tr>
+		<tr>
+			<th>表見出し</th>
+			<td>表の文章が入ります。</td>
+		</tr>
+		<tr>
+			<th>表見出し</th>
+			<td><span>表の文章が入ります。</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>",,,,"2023-12-04 19:00:49"
+"6","<h2>サービス２</h2>
+
+<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+
+<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+
+<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>",,,,"2023-12-04 19:00:49"
+"7","<h2>サービス３</h2>
+
+<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+
+<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+
+<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>",,,,"2023-12-04 19:00:49"
+"8","<section class=""gray-back"" id=""3"">
+<h2 class=""center""><span class=""under"">申し込みの流れ</span></h2>
+
+<div class=""container"">
+<div class=""row flow"">
+<div class=""col span-3""><img alt=""申し込み"" src=""/theme_lp_theme/img/flow.jpg"" /></div>
+
+<div class=""col span-9"">
+<p>ここに文章が入ります。ここに文章が入ります。ここに文章が入ります。</p>
+</div>
+</div>
+
+<div class=""row flow"">
+<div class=""col span-3""><img alt=""申し込み"" src=""/theme_lp_theme/img/flow.jpg"" /></div>
+
+<div class=""col span-9"">
+<p>ここに文章が入ります。ここに文章が入ります。ここに文章が入ります。</p>
+</div>
+</div>
+
+<div class=""row flow"">
+<div class=""col span-3""><img alt=""申し込み"" src=""/theme_lp_theme/img/flow.jpg"" /></div>
+
+<div class=""col span-9"">
+<p>ここに文章が入ります。ここに文章が入ります。ここに文章が入ります。</p>
+</div>
+</div>
+</div>
+</section>",,,"2023-12-04 21:23:31","2023-12-04 21:02:25"
+"9","<section id=""4"">
+<h2 class=""center""><span class=""under"">アクセス</span></h2>
+
+<div class=""container"">
+<div class=""row"">
+<div class=""col span-12""><!-- GoogleMap --><iframe allowfullscreen="""" frameborder=""0"" height=""450"" src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27814443.96425483!2d120.28897720705172!3d31.679877148840735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34674e0fd77f192f%3A0xf54275d47c665244!2z5pel5pys!5e0!3m2!1sja!2sjp!4v1555153587836!5m2!1sja!2sjp"" style=""border: 0"" width=""100%""></iframe><!-- /GoogleMap --></div>
+</div>
+</div>
+</section>",,,"2023-12-04 21:23:28","2023-12-04 21:19:13"
+"10","<section id=""5"">
+<h2 class=""center""><span class=""under"">お問い合わせ</span></h2>
+
+<div style=""text-align: center;""><a href=""/contact/"">お問い合わせフォーム</a></div>
+
+<p>&nbsp;</p>
+
+<p style=""text-align: center;"">※ baserCMS5.0.7では、メールフォームを埋め込むショートコードが動作しないようです。<br />
+バグが解消したらここにメールフォームを埋め込めるようにする予定です。</p>
+
+<p style=""text-align: center;""><a href=""https://github.com/baserproject/basercms/issues/2915"" target=""_blank"">https://github.com/baserproject/basercms/issues/2915</a></p>
+</section>",,,"2023-12-04 21:23:33","2023-12-04 21:19:39"
