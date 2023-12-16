@@ -38,19 +38,7 @@
 </div>
 </div>
 </section>
-
-<section id=""5"">
-<h2 class=""center""><span class=""under"">お問い合わせ</span></h2>
-
-<div style=""text-align: center;""><a href=""/contact/"">お問い合わせフォームはこちら</a></div>
-
-<p>&nbsp;</p>
-
-<p style=""text-align: center;"">※ baserCMS5.0.7では、メールフォームを埋め込むショートコードが動作しないようです。<br />
-バグが解消したらここにメールフォームを埋め込めるようにする予定です。</p>
-
-<p style=""text-align: center;""><a href=""https://github.com/baserproject/basercms/issues/2915"" target=""_blank"">https://github.com/baserproject/basercms/issues/2915</a></p>
-</section>",,,"2023-12-04 21:27:57","2023-12-04 19:00:49"
+",,,"2023-12-04 21:27:57","2023-12-04 19:00:49"
 "2","<h2>会社案内</h2>
 
 <h3>会社データ</h3>

@@ -28,4 +28,20 @@
   <?php // $this->BcBaser->page('/inquiry') ?>
 
   <?php $this->BcBaser->content() ?>
+
+  <section id="5">
+    <h2 class="center">
+      <span class="under">お問い合わせ</span>
+    </h2>
+    <div class="container">
+      <div class="row">
+        <div class="col span-12">
+          <?php
+            $this->Mail = new BcMail\View\Helper\MailHelper($this);
+            echo $this->Mail->getForm(1);
+          ?>
+          </div>
+      </div>
+    </div>
+  </section>
 </main>
