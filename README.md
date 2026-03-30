@@ -15,7 +15,8 @@
 {baserCMS設置フォルダ}/plugins/
 になります。
 
-githubなどからzip形式でダウンロードして解凍した場合に ThemeLpTheme-masterなどフォルダ名が ThemeLpTheme になっていない場合はリネームしてから設置して下さい。
+https://github.com/kaburk/ThemeLpTheme/releases からダウンロードするとOKですが、
+zip形式でダウンロードして解凍した場合に ThemeLpTheme-mainなどフォルダ名が ThemeLpTheme になっていない場合はリネームしてから設置して下さい。
 
 ## クレジット表記について
 
